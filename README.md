@@ -31,9 +31,9 @@ The unit tests for this application can be found in the RewardPoints.test.js fil
 ## Future Improvements
 Some potential improvements for this application include:
 
-Adding the ability to sort the tables by customer name or reward points
-Allowing users to upload their own transaction data instead of relying on a JSON file
-Adding more robust error handling for failed API calls or invalid transaction data.
+ * Adding the ability to sort the tables by customer name or reward points
+ * Allowing users to upload their own transaction data instead of relying on a JSON file
+ * Adding more robust error handling for failed API calls or invalid transaction data.
 
 # Tags
 React, JavaScript, HTML, CSS, rewards points, customer, purchases.
