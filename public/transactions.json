@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "customer": "Jason",
+    "date": "2022-01-01",
+    "amount": 120
+  },
+  {
+    "id": 2,
+    "customer": "Priyanka",
+    "date": "2022-02-15",
+    "amount": 80
+  },
+  {
+    "id": 3,
+    "customer": "Mary",
+    "date": "2022-01-31",
+    "amount": 150
+  },
+  {
+    "id": 4,
+    "customer": "Joseph",
+    "date": "2022-03-10",
+    "amount": 70
+  },
+  {
+    "id": 5,
+    "customer": "Jason",
+    "date": "2023-01-01",
+    "amount": 200
+  },
+  {
+    "id": 6,
+    "customer": "Priyanka",
+    "date": "2023-03-15",
+    "amount": 800
+  }
+]
